@@ -85,13 +85,12 @@ nav
         color: $white
         font-size: 14px
         font-weight: 400
-        text-transform: uppercase
+        text-transform: uppercase      
         +btn_hover
         
 
 .promo
     padding: 150px 0 135px 0
-    // height: 800px
     background: url(../img/main-bg.png) center (center / cover) no-repeat
 
     &_header
@@ -381,6 +380,11 @@ footer
         width: 160px
         justify-content: space-between
         align-items: center
+        a
+            text-decoration: none
+            transition: 0.3s all
+            &:hover
+                font-size: 20px
         &_item
             display: flex
             justify-content: center
@@ -389,10 +393,9 @@ footer
             width: 32px
             height: 32px
             background-color: #070716
-            border-radius: 100%        
+            border-radius: 100%       
             span
-                color: $white            
-                text-decoration: none                        
+                color: $white                   
     &_links
         &_1
             padding: 30px 0 0 0
