@@ -28,7 +28,7 @@ In  this  project i practice:
 - Using vendor prefixes.
 
 ## Demo
-The completed project can be viewed [here](https://gnobious.github.io/Uber-landing/ "demo url")
+The completed project can be viewed [here](https://rimerian.github.io/Uber-landing/ "demo url")
 
 <h2 id="how-to-use">How to Use 🔧</h2>
 
@@ -150,7 +150,7 @@ If you wish to run project locally as is, then all that's required is the `css`,
 	
 ## Layouts
 The site layouts is shown below. 
-*The layouts in other formats is also available in the [repository](https://github.com/gnobious/Uber-landing/tree/master/references/layouts/ "layouts source").*
+*The layouts in other formats is also available in the [repository](https://github.com/rimerian/Uber-landing/tree/master/references/layouts/ "layouts source").*
 
 <h3 id="full-size">Full-size 💻</h3>		
 
